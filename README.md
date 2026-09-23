@@ -15,7 +15,7 @@ KLH/PSPJAVA/S1/T
 3. 2620030209 - S.Akshaya
 
  Supervisor's Name:
-Dr. Madhavi Karumudi
+Dr.Sukanya 
 
  Abstract:
 
